@@ -1,4 +1,4 @@
-# Instructions 
+# Instructions
 
 Dans cette exercice, vous allez écrire directement dans un fichier python qui se nomme `main.py`.
 

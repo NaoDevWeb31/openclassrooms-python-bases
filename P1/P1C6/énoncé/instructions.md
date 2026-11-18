@@ -1,4 +1,4 @@
-# Instructions  
+# Instructions
 
 1. **Créez** une liste nommée `fruits` contenant les éléments `"pomme"`, `"banane"` et `"orange"`.
 2. **Ajoutez** `"kiwi"` à la liste `fruits`.

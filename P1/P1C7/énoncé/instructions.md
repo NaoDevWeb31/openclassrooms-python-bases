@@ -1,4 +1,4 @@
-# Instructions  
+# Instructions
 
 1. **Créez** un **dictionnaire** appelé `fruits` avec les clés `"pomme"`, `"banane"` et `"orange"`, et respectivement les valeurs `"rouge"`, `"jaune"` et `"orange"`.
 2. **Ajoutez** la clé `"kiwi"` avec la valeur `"vert"` au dictionnaire `fruits`.

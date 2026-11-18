@@ -1,4 +1,4 @@
-# Instructions  
+# Instructions
 
 1. Créez une variable nommée `nom` et attribuez-y votre **nom**.
 2. Créez une variable nommée `age` et attribuez-y votre **âge**.
